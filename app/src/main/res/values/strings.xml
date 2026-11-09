@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proofread</string>
+    <string name="fix_grammar">Fix grammar</string>
+    <string name="make_formal">Make formal</string>
+    <string name="more_actions">Proofread…</string>
+    <string name="tile_label">Fix clipboard</string>
+    <string name="shortcut_long">Fix the text on my clipboard</string>
+    <string name="keyboard_label">Proofread keyboard</string>
+</resources>

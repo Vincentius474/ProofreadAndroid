@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local machine configuration and secrets
+local.properties
+
+# Build and editor artifacts
+.externalNativeBuild/
+.cxx/
+captures/
+.DS_Store
