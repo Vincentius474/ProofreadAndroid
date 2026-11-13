@@ -1,5 +1,5 @@
 PROOFREAD for Android
-=====================
+
 Adds a "Fix grammar" action to the text-selection menu of every app
 (WhatsApp, Gmail, Chrome, notes, ...), whatever keyboard you use.
 
