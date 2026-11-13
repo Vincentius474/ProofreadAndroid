@@ -1,5 +1,7 @@
 PROOFREAD for Android
 
+PROOFREAD for Android is an Android-based writing assistant that integrates directly with the text-selection menu, allowing users to correct grammar, punctuation, and sentence structure or rewrite text in different tones across any application. It features AI-powered rewriting, translation, voice dictation, text comparison, editing history, customizable language preferences, and secure API integration with Gemini and Groq to deliver a versatile, privacy-conscious writing experience.
+
 Adds a "Fix grammar" action to the text-selection menu of every app
 (WhatsApp, Gmail, Chrome, notes, ...), whatever keyboard you use.
 
